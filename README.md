@@ -1,5 +1,7 @@
 Created by Jacob Kolk
 
+IMPORTANT: If you build this yourself, you need the libcurl and wxWidgets libraries. I could not include them becasue the files were too large.
+
 GETTING STARTED
 -First, download the x86 binary (if on Windows, otherwise this does not apply and you must build you own version).
 -Extract the .zip folders contents.
