@@ -1,6 +1,6 @@
 Created by Jacob Kolk
 
-IMPORTANT: If you build this yourself, you need the libcurl and wxWidgets libraries. I could not include them becasue the files were too large.
+IMPORTANT: souce code not included, so shoot me an email for souce code. jacob.e.kolk@gmail.com
 
 GETTING STARTED
 -First, download the x86 binary (if on Windows, otherwise this does not apply and you must build you own version).
@@ -16,3 +16,4 @@ USE
 -Configure the word cloud how you prefer and hit run.
 
 -You choud see the word cloud open in another window
+ 
