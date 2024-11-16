@@ -1,6 +1,6 @@
 Created by Jacob Kolk
 
-IMPORTANT: souce code not included, so shoot me an email for souce code. jacob.e.kolk@gmail.com
+IMPORTANT: Souce code not included, so shoot me an email if you want it. jacob.e.kolk@gmail.com
 
 GETTING STARTED
 -First, download the x86 binary (if on Windows, otherwise this does not apply and you must build you own version).
