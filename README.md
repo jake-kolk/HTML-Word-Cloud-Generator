@@ -3,11 +3,11 @@ Created by Jacob Kolk
 IMPORTANT: Souce code not included, so shoot me an email if you want it. jacob.e.kolk@gmail.com
 
 GETTING STARTED
--First, download the x86 binary (if on Windows, otherwise this does not apply and you must build you own version).
+-First, download the x86(or x64) binary (if on Windows, otherwise this does not apply and you must build you own version).
 
 -Extract the .zip folders contents.
 
--Go into the extracted folder and open the .eve application.
+-Go into the extracted folder and open the .exe application.
 
 USE
 
