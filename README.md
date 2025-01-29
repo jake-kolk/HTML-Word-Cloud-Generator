@@ -15,5 +15,5 @@ USE
 
 -Configure the word cloud how you prefer and hit run.
 
--You choud see the word cloud open in another window
+-You shoud see the word cloud open in another window
  
